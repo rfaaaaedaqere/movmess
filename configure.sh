@@ -2,7 +2,7 @@
 # V2Ray new configuration
 # Run V2ray
 # Write V2Ray configuration
-UUID=7c67042c-99ad-4946-bd73-64b856cc9e55
+UUID=153a2f16-943e-4a97-8c55-b52c9faa48c2
 PATHM=lasafd
 cat << EOF > /etc/v2ray/config.json
 {
